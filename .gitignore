@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+chrome_cookies.sqlite
+edge_cookies.sqlite
+tmp_*
+*.log
+output/
+dist/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人内容资产化"
+  short_description: "把播客访谈笔记等原始语料提纯重组成可复用的多平台内容资产包"
+  default_prompt: "把这段原始语料做成可复用的内容资产，并输出适合小红书、朋友圈、口播和方法论沉淀的版本。"
